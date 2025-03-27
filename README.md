@@ -1,4 +1,3 @@
-Safronii Veaceslav-334CD
 # Apd-Homework2 : BitTorrent Protocol
 
 ## Data Structures:
